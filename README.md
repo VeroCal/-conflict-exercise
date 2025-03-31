@@ -1,2 +1,2 @@
-# -conflict-exercise
+# conflict-exercise
 Tp2  - Programación
